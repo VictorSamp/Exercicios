@@ -28,4 +28,5 @@ Neste repositório estão presentes os desafios realizados por mim durante curso
 |        [Aumento de Salario](./AumentoDeSalario)         |
 |                   [Media 1](./Media1)                   |
 |  [Crescimento Populacional](./CrescimentoPopulacional)  |
+|                  [Bazinga!](./Bazinga)                  |
 
