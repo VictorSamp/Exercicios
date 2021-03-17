@@ -10,7 +10,7 @@ Neste repositório estão presentes os desafios realizados por mim durante meus 
 
 <br/>
 
-| NOME |
-| :--: |
-|      |
+|               NOME               |
+| :------------------------------: |
+| [VisitaNaFeira](./VisitaNaFeira) |
 
