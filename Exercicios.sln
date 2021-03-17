@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComunicacaoEmPiralandia", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoordenadasDeUmPonto", "CoordenadasDeUmPonto\CoordenadasDeUmPonto.csproj", "{48332C21-8F5E-4944-A6A5-962389E81808}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComprasNoSupermercado", "ComprasNoSupermercado\ComprasNoSupermercado.csproj", "{FEC70658-F0C4-46E0-9B2F-58A8151B1655}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{48332C21-8F5E-4944-A6A5-962389E81808}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{48332C21-8F5E-4944-A6A5-962389E81808}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{48332C21-8F5E-4944-A6A5-962389E81808}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEC70658-F0C4-46E0-9B2F-58A8151B1655}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEC70658-F0C4-46E0-9B2F-58A8151B1655}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEC70658-F0C4-46E0-9B2F-58A8151B1655}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEC70658-F0C4-46E0-9B2F-58A8151B1655}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
