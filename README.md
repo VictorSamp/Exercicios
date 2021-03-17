@@ -10,8 +10,9 @@ Neste repositório estão presentes os desafios realizados por mim durante meus 
 
 <br/>
 
-|               NOME               |
-| :------------------------------: |
-| [VisitaNaFeira](./VisitaNaFeira) |
-|      [Tuitando](./Tuitando)      |
+|                 NOME                 |
+| :----------------------------------: |
+|   [VisitaNaFeira](./VisitaNaFeira)   |
+|        [Tuitando](./Tuitando)        |
+| [ValidacaoDeNota](./ValidacaoDeNota) |
 
