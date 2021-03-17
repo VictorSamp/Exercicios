@@ -15,4 +15,5 @@ Neste repositório estão presentes os desafios realizados por mim durante meus 
 |                  [Triangulo](./Triangulo)                  |
 |               [NotasEMoedas](./NotasEMoedas)               |
 | [TeoremaDaDivisaoEuclidiana](./TeoremaDaDivisaoEuclidiana) |
+|          [FormulaDeBhaskara](./FormulaDeBhaskara)          |
 
