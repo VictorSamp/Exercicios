@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Triangulo", "Triangulo\Tria
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotasEMoedas", "NotasEMoedas\NotasEMoedas.csproj", "{4418881F-6B0D-42C0-9AAE-5D89057CE063}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeoremaDaDivisaoEuclidiana", "TeoremaDaDivisaoEuclidiana\TeoremaDaDivisaoEuclidiana.csproj", "{991B321D-0992-42C2-83BA-FB4BBB5715A6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{4418881F-6B0D-42C0-9AAE-5D89057CE063}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4418881F-6B0D-42C0-9AAE-5D89057CE063}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4418881F-6B0D-42C0-9AAE-5D89057CE063}.Release|Any CPU.Build.0 = Release|Any CPU
+		{991B321D-0992-42C2-83BA-FB4BBB5715A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{991B321D-0992-42C2-83BA-FB4BBB5715A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{991B321D-0992-42C2-83BA-FB4BBB5715A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{991B321D-0992-42C2-83BA-FB4BBB5715A6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

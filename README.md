@@ -6,12 +6,13 @@ Neste repositório estão presentes os desafios realizados por mim durante meus 
 
 ## BOOTCAMP MRV .NET DEVELOPER - DIGITAL INNOVATION ONE
 
-|                 NOME                 |
-| :----------------------------------: |
-|   [VisitaNaFeira](./VisitaNaFeira)   |
-|        [Tuitando](./Tuitando)        |
-| [ValidacaoDeNota](./ValidacaoDeNota) |
-| [TesteDeSelecao1](./TesteDeSelecao1) |
-|       [Triangulo](./Triangulo)       |
-|    [NotasEMoedas](./NotasEMoedas)    |
+|                            NOME                            |
+| :--------------------------------------------------------: |
+|              [VisitaNaFeira](./VisitaNaFeira)              |
+|                   [Tuitando](./Tuitando)                   |
+|            [ValidacaoDeNota](./ValidacaoDeNota)            |
+|            [TesteDeSelecao1](./TesteDeSelecao1)            |
+|                  [Triangulo](./Triangulo)                  |
+|               [NotasEMoedas](./NotasEMoedas)               |
+| [TeoremaDaDivisaoEuclidiana](./TeoremaDaDivisaoEuclidiana) |
 
