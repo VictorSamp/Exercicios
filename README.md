@@ -13,4 +13,5 @@ Neste repositório estão presentes os desafios realizados por mim durante meus 
 | [ValidacaoDeNota](./ValidacaoDeNota) |
 | [TesteDeSelecao1](./TesteDeSelecao1) |
 |       [Triangulo](./Triangulo)       |
+|    [NotasEMoedas](./NotasEMoedas)    |
 
