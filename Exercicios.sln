@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrescimentoPopulacional", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bazinga", "Bazinga\Bazinga.csproj", "{F4025C20-E690-4796-86FC-9F0F9BAEE15F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TempoDeUmEvento", "TempoDeUmEvento\TempoDeUmEvento.csproj", "{0CCC640B-61B0-4E26-9E29-7765D644EA99}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{F4025C20-E690-4796-86FC-9F0F9BAEE15F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F4025C20-E690-4796-86FC-9F0F9BAEE15F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F4025C20-E690-4796-86FC-9F0F9BAEE15F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CCC640B-61B0-4E26-9E29-7765D644EA99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CCC640B-61B0-4E26-9E29-7765D644EA99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CCC640B-61B0-4E26-9E29-7765D644EA99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CCC640B-61B0-4E26-9E29-7765D644EA99}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

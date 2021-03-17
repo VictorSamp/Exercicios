@@ -29,4 +29,5 @@ Neste repositório estão presentes os desafios realizados por mim durante curso
 |                   [Media 1](./Media1)                   |
 |  [Crescimento Populacional](./CrescimentoPopulacional)  |
 |                  [Bazinga!](./Bazinga)                  |
+|         [Tempo De Um Evento](./TempoDeUmEvento)         |
 
