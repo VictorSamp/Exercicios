@@ -1,4 +1,4 @@
-# Exercícios e Desafios Cursos Online
+# SExercícios e Desafios Cursos Online
 
 Neste repositório estão presentes os desafios realizados por mim durante cursos e bootcamps.
 
@@ -26,4 +26,5 @@ Neste repositório estão presentes os desafios realizados por mim durante curso
 | [ConsumoMedioDoAutomovel](./ConsumoMedioDoAutomovel) |
 |                     [DDD](./DDD)                     |
 |        [AumentoDeSalario](./AumentoDeSalario)        |
+|                  [Media1](./Media1)                  |
 
