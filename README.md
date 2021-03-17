@@ -1,4 +1,4 @@
-# SExercícios e Desafios Cursos Online
+# Exercícios e Desafios Cursos Online
 
 Neste repositório estão presentes os desafios realizados por mim durante cursos e bootcamps.
 
@@ -33,5 +33,5 @@ Neste repositório estão presentes os desafios realizados por mim durante curso
 | [Comunicação em Piralândia](./ComunicacaoEmPiralandia)  |
 |    [Coordenadas de um Ponto](./CoordenadasDeUmPonto)    |
 |   [Compras no Supermercado](./ComprasNoSupermercado)    |
-|        [Pink e Cérebro](./ComprasNoSupermercado)        |
+|            [Pink e Cérebro](./PinkECerebro)             |
 
