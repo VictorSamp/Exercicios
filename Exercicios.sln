@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TempoDeUmEvento", "TempoDeU
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComunicacaoEmPiralandia", "ComunicacaoEmPiralandia\ComunicacaoEmPiralandia.csproj", "{BB50327E-6B6D-4128-B431-4A63534F961C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoordenadasDeUmPonto", "CoordenadasDeUmPonto\CoordenadasDeUmPonto.csproj", "{48332C21-8F5E-4944-A6A5-962389E81808}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +107,10 @@ Global
 		{BB50327E-6B6D-4128-B431-4A63534F961C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BB50327E-6B6D-4128-B431-4A63534F961C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BB50327E-6B6D-4128-B431-4A63534F961C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48332C21-8F5E-4944-A6A5-962389E81808}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48332C21-8F5E-4944-A6A5-962389E81808}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48332C21-8F5E-4944-A6A5-962389E81808}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48332C21-8F5E-4944-A6A5-962389E81808}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

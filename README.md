@@ -31,4 +31,5 @@ Neste repositório estão presentes os desafios realizados por mim durante curso
 |                  [Bazinga!](./Bazinga)                  |
 |         [Tempo De Um Evento](./TempoDeUmEvento)         |
 | [Comunicacao em Piralandia](./ComunicacaoEmPiralandia)  |
+|    [Coordenadas de um Ponto](./CoordenadasDeUmPonto)    |
 
