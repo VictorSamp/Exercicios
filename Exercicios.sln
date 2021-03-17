@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormulaDeBhaskara", "Formul
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsumoMedioDoAutomovel", "ConsumoMedioDoAutomovel\ConsumoMedioDoAutomovel.csproj", "{D4C0834B-594E-4A56-9E42-FD188FDE42B4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DDD", "DDD\DDD.csproj", "{BB7D9E71-458F-4BD6-B734-6490A4838972}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{D4C0834B-594E-4A56-9E42-FD188FDE42B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D4C0834B-594E-4A56-9E42-FD188FDE42B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D4C0834B-594E-4A56-9E42-FD188FDE42B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB7D9E71-458F-4BD6-B734-6490A4838972}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB7D9E71-458F-4BD6-B734-6490A4838972}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB7D9E71-458F-4BD6-B734-6490A4838972}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB7D9E71-458F-4BD6-B734-6490A4838972}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
