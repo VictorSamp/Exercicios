@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bazinga", "Bazinga\Bazinga.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TempoDeUmEvento", "TempoDeUmEvento\TempoDeUmEvento.csproj", "{0CCC640B-61B0-4E26-9E29-7765D644EA99}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComunicacaoEmPiralandia", "ComunicacaoEmPiralandia\ComunicacaoEmPiralandia.csproj", "{BB50327E-6B6D-4128-B431-4A63534F961C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{0CCC640B-61B0-4E26-9E29-7765D644EA99}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0CCC640B-61B0-4E26-9E29-7765D644EA99}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0CCC640B-61B0-4E26-9E29-7765D644EA99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB50327E-6B6D-4128-B431-4A63534F961C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB50327E-6B6D-4128-B431-4A63534F961C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB50327E-6B6D-4128-B431-4A63534F961C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB50327E-6B6D-4128-B431-4A63534F961C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
