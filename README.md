@@ -15,4 +15,5 @@ Neste repositório estão presentes os desafios realizados por mim durante meus 
 |   [VisitaNaFeira](./VisitaNaFeira)   |
 |        [Tuitando](./Tuitando)        |
 | [ValidacaoDeNota](./ValidacaoDeNota) |
+| [TesteDeSelecao1](./TesteDeSelecao1) |
 
