@@ -10,12 +10,12 @@ Neste repositório estão presentes os desafios realizados por mim durante curso
 | :----------------------------------------------------------: |
 |              [Visita na Feira](./VisitaNaFeira)              |
 |                    [Tuitando](./Tuitando)                    |
-|            [Validacao de Nota](./ValidacaoDeNota)            |
-|           [Teste de Selecao 1](./TesteDeSelecao1)            |
-|                   [Triangulo](./Triangulo)                   |
+|            [Validação de Nota](./ValidacaoDeNota)            |
+|           [Teste de Seleção 1](./TesteDeSelecao1)            |
+|                   [Triângulo](./Triangulo)                   |
 |               [Notas e Moedas](./NotasEMoedas)               |
-| [Teorema da Divisao Euclidiana](./TeoremaDaDivisaoEuclidiana) |
-|          [Formula de Bhaskara](./FormulaDeBhaskara)          |
+| [Teorema da divisão Euclidiana](./TeoremaDaDivisaoEuclidiana) |
+|          [Fórmula de Bhaskara](./FormulaDeBhaskara)          |
 
 <br/>
 
@@ -23,14 +23,15 @@ Neste repositório estão presentes os desafios realizados por mim durante curso
 
 |                          NOME                           |
 | :-----------------------------------------------------: |
-| [Consumo Medio do Automovel](./ConsumoMedioDoAutomovel) |
+| [Consumo Médio do Automóvel](./ConsumoMedioDoAutomovel) |
 |                      [DDD](./DDD)                       |
-|        [Aumento de Salario](./AumentoDeSalario)         |
-|                   [Media 1](./Media1)                   |
+|        [Aumento de Salário](./AumentoDeSalario)         |
+|                   [Média 1](./Media1)                   |
 |  [Crescimento Populacional](./CrescimentoPopulacional)  |
 |                  [Bazinga!](./Bazinga)                  |
-|         [Tempo De Um Evento](./TempoDeUmEvento)         |
-| [Comunicacao em Piralandia](./ComunicacaoEmPiralandia)  |
+|         [Tempo de um Evento](./TempoDeUmEvento)         |
+| [Comunicação em Piralândia](./ComunicacaoEmPiralandia)  |
 |    [Coordenadas de um Ponto](./CoordenadasDeUmPonto)    |
 |   [Compras no Supermercado](./ComprasNoSupermercado)    |
+|        [Pink e Cérebro](./ComprasNoSupermercado)        |
 
