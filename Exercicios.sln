@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsumoMedioDoAutomovel", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DDD", "DDD\DDD.csproj", "{BB7D9E71-458F-4BD6-B734-6490A4838972}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AumentoDeSalario", "AumentoDeSalario\AumentoDeSalario.csproj", "{2F455239-F323-49DE-9A29-A43297BCF309}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{BB7D9E71-458F-4BD6-B734-6490A4838972}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BB7D9E71-458F-4BD6-B734-6490A4838972}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BB7D9E71-458F-4BD6-B734-6490A4838972}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F455239-F323-49DE-9A29-A43297BCF309}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F455239-F323-49DE-9A29-A43297BCF309}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F455239-F323-49DE-9A29-A43297BCF309}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F455239-F323-49DE-9A29-A43297BCF309}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

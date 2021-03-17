@@ -25,4 +25,5 @@ Neste repositório estão presentes os desafios realizados por mim durante curso
 | :--------------------------------------------------: |
 | [ConsumoMedioDoAutomovel](./ConsumoMedioDoAutomovel) |
 |                     [DDD](./DDD)                     |
+|        [AumentoDeSalario](./AumentoDeSalario)        |
 
