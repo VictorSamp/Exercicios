@@ -4,11 +4,7 @@ Neste repositório estão presentes os desafios realizados por mim durante meus 
 
 <br/>
 
-<br/>
-
 ## BOOTCAMP MRV .NET DEVELOPER - DIGITAL INNOVATION ONE
-
-<br/>
 
 |                 NOME                 |
 | :----------------------------------: |
@@ -16,4 +12,5 @@ Neste repositório estão presentes os desafios realizados por mim durante meus 
 |        [Tuitando](./Tuitando)        |
 | [ValidacaoDeNota](./ValidacaoDeNota) |
 | [TesteDeSelecao1](./TesteDeSelecao1) |
+|       [Triangulo](./Triangulo)       |
 
