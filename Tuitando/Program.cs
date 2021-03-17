@@ -6,7 +6,13 @@ namespace Tuitando
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            string texto = Console.ReadLine();
+            char[] vetorCaracteres = texto.ToCharArray();
+
+            if (vetorCaracteres.Length <= 140)
+                Console.WriteLine("TWEET");
+            else
+                Console.WriteLine("MUTE");
         }
     }
 }
