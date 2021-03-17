@@ -14,13 +14,11 @@ Caso você não saiba, o teorema que garante a existência e a unicidade dos int
 
 ** |**b**| **(Módulo / Valor absoluto):** É o valor representado de forma positiva;
 
-<br/>
 
 ### ENTRADA
 
 A entrada é composta por dois números inteiros **a** e **b** (-1.000 ≤ **a**, **b** < 1.000).
 
-<br/>
 
 ### SAÍDA
 

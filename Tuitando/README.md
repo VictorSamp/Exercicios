@@ -2,13 +2,11 @@
 
 O microblog Twitter é conhecido por limitar as postagens em 140 caracteres. Conferir se um texto vai caber em um tuíte é sua tarefa.
 
-<br/>
 
 ### ENTRADA
 
 A entrada é uma linha de texto **T** (1 ≤ |**T**| ≤ 500).
 
-<br/>
 
 ### SAÍDA
 
