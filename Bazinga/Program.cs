@@ -4,72 +4,38 @@ namespace Bazinga
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
-            int quantidadeDeTestes;
-            string[] valorEscolhido;
+            string[] escolhas = { "tesoura", "papel", "pedra", "lagarto", "Spock" };
             string escolhaSheldon, escolhaRaj;
 
-            quantidadeDeTestes = int.Parse(Console.ReadLine());
+            int qtdTeste = int.Parse(Console.ReadLine());
 
-            for (int contador = 1; contador <= quantidadeDeTestes; contador++)
+            for (int contador = 1; contador <= qtdTeste; contador++)
             {
-                valorEscolhido = Console.ReadLine().Split(' ');
+                string[] valores = Console.ReadLine().Split(" ");
+                escolhaSheldon = valores[0];
+                escolhaRaj = valores[1];
 
-                escolhaSheldon = valorEscolhido[0];
-                escolhaRaj = valorEscolhido[1];
+                if (escolhaSheldon == escolhaRaj)
+                    Console.WriteLine($"Caso #{contador}: De novo!");
 
-                ValidarVencedor(escolhaSheldon, escolhaRaj, contador);
-            }
-        }
+                else
+                {
+                    if (escolhaSheldon == escolhas[0] && (escolhaRaj == escolhas[1] || escolhaRaj == escolhas[3]) ||
+                        escolhaSheldon == escolhas[1] && (escolhaRaj == escolhas[2] || escolhaRaj == escolhas[4]) ||
+                        escolhaSheldon == escolhas[2] && (escolhaRaj == escolhas[0] || escolhaRaj == escolhas[3]) ||
+                        escolhaSheldon == escolhas[3] && (escolhaRaj == escolhas[1] || escolhaRaj == escolhas[4]) ||
+                        escolhaSheldon == escolhas[4] && (escolhaRaj == escolhas[0] || escolhaRaj == escolhas[2]))
+                    {
+                        Console.WriteLine($"Caso #{contador}: Bazinga!");
 
-        static void ValidarVencedor(string escolhaSheldon, string escolhaRaj, int contador)
-        {
-            if (escolhaSheldon == escolhaRaj)
-            {
-                Console.WriteLine($"Caso #{contador}: De novo!");
-            }
-            else
-            {
-                if (escolhaSheldon == "tesoura" && (escolhaRaj == "papel" || escolhaRaj == "lagarto"))
-                {
-                    Console.WriteLine($"Caso #{contador}: Bazinga!");
-                }
-                if (escolhaSheldon == "papel" && (escolhaRaj == "pedra" || escolhaRaj == "Spock"))
-                {
-                    Console.WriteLine($"Caso #{contador}: Bazinga!");
-                }
-                if (escolhaSheldon == "pedra" && (escolhaRaj == "lagarto" || escolhaRaj == "tesoura"))
-                {
-                    Console.WriteLine($"Caso #{contador}: Bazinga!");
-                }
-                if (escolhaSheldon == "lagarto" && (escolhaRaj == "Spock" || escolhaRaj == "papel"))
-                {
-                    Console.WriteLine($"Caso #{contador}: Bazinga!");
-                }
-                if (escolhaSheldon == "Spock" && (escolhaRaj == "tesoura" || escolhaRaj == "pedra"))
-                {
-                    Console.WriteLine($"Caso #{contador}: Bazinga!");
-                }
-                if (escolhaRaj == "tesoura" && (escolhaSheldon == "papel" || escolhaSheldon == "lagarto"))
-                {
-                    Console.WriteLine($"Caso #{contador}: Raj trapaceou!");
-                }
-                if (escolhaRaj == "papel" && (escolhaSheldon == "pedra" || escolhaSheldon == "Spock"))
-                {
-                    Console.WriteLine($"Caso #{contador}: Raj trapaceou!");
-                }
-                if (escolhaRaj == "pedra" && (escolhaSheldon == "lagarto" || escolhaSheldon == "tesoura"))
-                {
-                    Console.WriteLine($"Caso #{contador}: Raj trapaceou!");
-                }
-                if (escolhaRaj == "lagarto" && (escolhaSheldon == "Spock" || escolhaSheldon == "papel"))
-                {
-                    Console.WriteLine($"Caso #{contador}: Raj trapaceou!");
-                }
-                if (escolhaRaj == "Spock" && (escolhaSheldon == "tesoura" || escolhaSheldon == "pedra"))
-                {
-                    Console.WriteLine($"Caso #{contador}: Raj trapaceou!");
+                    }
+                    else
+                    {
+                        Console.WriteLine($"Caso #{contador}: Raj trapaceou!");
+
+                    }
                 }
             }
         }
