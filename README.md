@@ -39,16 +39,16 @@ Neste repositório estão presentes os desafios realizados por mim durante curso
 
 ### BOOTCAMP TAKE BLIP FULLSTACK DEVELOPER - DIGITAL INNOVATION ONE
 
-|             NOME              |
-| :---------------------------: |
-| [Soma Simples](./SomaSimples) |
-|                               |
-|                               |
-|                               |
-|                               |
-|                               |
-|                               |
-|                               |
-|                               |
-|                               |
-|                               |
+|                NOME                |
+| :--------------------------------: |
+|   [Soma Simples](./SomaSimples)    |
+| [Área do Círculo](./AreaDoCirculo) |
+|      [Múltiplos](./Multiplos)      |
+|                                    |
+|                                    |
+|                                    |
+|                                    |
+|                                    |
+|                                    |
+|                                    |
+|                                    |
