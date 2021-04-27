@@ -48,7 +48,7 @@ Neste repositório estão presentes os desafios realizados por mim durante curso
 |         [Teste de Seleção 1](./TesteDeSelecao1)         |
 | [Pizza Antes do Final de Ano](./PizzaAntesDoFinalDoAno) |
 |           [Ultrapassando V](./UltrapassandoV)           |
-|                                                         |
+|        [Conversão de Tempo](./ConversaoDeTempo)         |
 |                                                         |
 |                                                         |
 |                                                         |
