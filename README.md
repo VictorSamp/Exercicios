@@ -44,7 +44,7 @@ Neste repositório estão presentes os desafios realizados por mim durante curso
 |   [Soma Simples](./SomaSimples)    |
 | [Área do Círculo](./AreaDoCirculo) |
 |      [Múltiplos](./Multiplos)      |
-|                                    |
+|       [Bazinga!](./Bazinga)        |
 |                                    |
 |                                    |
 |                                    |
