@@ -32,8 +32,8 @@ namespace CrescimentoPopulacional
 
             while (populacaoA <= populacaoB)
             {
-                populacaoA += (int)Math.Floor(populacaoA * (crescimentoPopulacionalA / 100));
-                populacaoB += (int)Math.Floor(populacaoB * (crescimentoPopulacionalB / 100));
+                populacaoA += (int)(populacaoA * (crescimentoPopulacionalA / 100));
+                populacaoB += (int)(populacaoB * (crescimentoPopulacionalB / 100));
                 anos++;
 
                 if (anos > 100)

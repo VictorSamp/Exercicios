@@ -7,39 +7,41 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VisitaNaFeira", "VisitaNaFe
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tuitando", "Tuitando\Tuitando.csproj", "{15CBC8E0-3C4A-4B6E-9329-7054FC4CFE60}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidacaoDeNota", "ValidacaoDeNota\ValidacaoDeNota.csproj", "{BED8270F-1E2E-4B82-97B5-33515B0495DA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ValidacaoDeNota", "ValidacaoDeNota\ValidacaoDeNota.csproj", "{BED8270F-1E2E-4B82-97B5-33515B0495DA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesteDeSelecao1", "TesteDeSelecao1\TesteDeSelecao1.csproj", "{B2403F23-A92D-4FED-88BE-E4CE98A49C07}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TesteDeSelecao1", "TesteDeSelecao1\TesteDeSelecao1.csproj", "{B2403F23-A92D-4FED-88BE-E4CE98A49C07}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Triangulo", "Triangulo\Triangulo.csproj", "{38CB7BD1-0812-43E2-A49B-762EFD1391F5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Triangulo", "Triangulo\Triangulo.csproj", "{38CB7BD1-0812-43E2-A49B-762EFD1391F5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotasEMoedas", "NotasEMoedas\NotasEMoedas.csproj", "{4418881F-6B0D-42C0-9AAE-5D89057CE063}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NotasEMoedas", "NotasEMoedas\NotasEMoedas.csproj", "{4418881F-6B0D-42C0-9AAE-5D89057CE063}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeoremaDaDivisaoEuclidiana", "TeoremaDaDivisaoEuclidiana\TeoremaDaDivisaoEuclidiana.csproj", "{991B321D-0992-42C2-83BA-FB4BBB5715A6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TeoremaDaDivisaoEuclidiana", "TeoremaDaDivisaoEuclidiana\TeoremaDaDivisaoEuclidiana.csproj", "{991B321D-0992-42C2-83BA-FB4BBB5715A6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormulaDeBhaskara", "FormulaDeBhaskara\FormulaDeBhaskara.csproj", "{A93A9DD1-8077-4D32-B3E6-2B01693564A8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FormulaDeBhaskara", "FormulaDeBhaskara\FormulaDeBhaskara.csproj", "{A93A9DD1-8077-4D32-B3E6-2B01693564A8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsumoMedioDoAutomovel", "ConsumoMedioDoAutomovel\ConsumoMedioDoAutomovel.csproj", "{D4C0834B-594E-4A56-9E42-FD188FDE42B4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsumoMedioDoAutomovel", "ConsumoMedioDoAutomovel\ConsumoMedioDoAutomovel.csproj", "{D4C0834B-594E-4A56-9E42-FD188FDE42B4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DDD", "DDD\DDD.csproj", "{BB7D9E71-458F-4BD6-B734-6490A4838972}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DDD", "DDD\DDD.csproj", "{BB7D9E71-458F-4BD6-B734-6490A4838972}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AumentoDeSalario", "AumentoDeSalario\AumentoDeSalario.csproj", "{2F455239-F323-49DE-9A29-A43297BCF309}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AumentoDeSalario", "AumentoDeSalario\AumentoDeSalario.csproj", "{2F455239-F323-49DE-9A29-A43297BCF309}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Media1", "Media1\Media1.csproj", "{1204AF12-B60A-4F46-96F3-1196B01E7319}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Media1", "Media1\Media1.csproj", "{1204AF12-B60A-4F46-96F3-1196B01E7319}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrescimentoPopulacional", "CrescimentoPopulacional\CrescimentoPopulacional.csproj", "{CE615D11-6109-4410-A700-8DA5AD090C44}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CrescimentoPopulacional", "CrescimentoPopulacional\CrescimentoPopulacional.csproj", "{CE615D11-6109-4410-A700-8DA5AD090C44}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bazinga", "Bazinga\Bazinga.csproj", "{F4025C20-E690-4796-86FC-9F0F9BAEE15F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bazinga", "Bazinga\Bazinga.csproj", "{F4025C20-E690-4796-86FC-9F0F9BAEE15F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TempoDeUmEvento", "TempoDeUmEvento\TempoDeUmEvento.csproj", "{0CCC640B-61B0-4E26-9E29-7765D644EA99}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TempoDeUmEvento", "TempoDeUmEvento\TempoDeUmEvento.csproj", "{0CCC640B-61B0-4E26-9E29-7765D644EA99}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComunicacaoEmPiralandia", "ComunicacaoEmPiralandia\ComunicacaoEmPiralandia.csproj", "{BB50327E-6B6D-4128-B431-4A63534F961C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ComunicacaoEmPiralandia", "ComunicacaoEmPiralandia\ComunicacaoEmPiralandia.csproj", "{BB50327E-6B6D-4128-B431-4A63534F961C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoordenadasDeUmPonto", "CoordenadasDeUmPonto\CoordenadasDeUmPonto.csproj", "{48332C21-8F5E-4944-A6A5-962389E81808}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CoordenadasDeUmPonto", "CoordenadasDeUmPonto\CoordenadasDeUmPonto.csproj", "{48332C21-8F5E-4944-A6A5-962389E81808}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComprasNoSupermercado", "ComprasNoSupermercado\ComprasNoSupermercado.csproj", "{FEC70658-F0C4-46E0-9B2F-58A8151B1655}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ComprasNoSupermercado", "ComprasNoSupermercado\ComprasNoSupermercado.csproj", "{FEC70658-F0C4-46E0-9B2F-58A8151B1655}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PinkECerebro", "PinkECerebro\PinkECerebro.csproj", "{4FB2AA7F-20CC-427B-A1CB-E7405D92C37A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PinkECerebro", "PinkECerebro\PinkECerebro.csproj", "{4FB2AA7F-20CC-427B-A1CB-E7405D92C37A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SomaSimples", "SomaSimples\SomaSimples.csproj", "{8C0B1722-8FAD-4AF9-A27B-0036EDFB1459}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -123,6 +125,10 @@ Global
 		{4FB2AA7F-20CC-427B-A1CB-E7405D92C37A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4FB2AA7F-20CC-427B-A1CB-E7405D92C37A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4FB2AA7F-20CC-427B-A1CB-E7405D92C37A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C0B1722-8FAD-4AF9-A27B-0036EDFB1459}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C0B1722-8FAD-4AF9-A27B-0036EDFB1459}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C0B1722-8FAD-4AF9-A27B-0036EDFB1459}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C0B1722-8FAD-4AF9-A27B-0036EDFB1459}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
