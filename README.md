@@ -35,3 +35,20 @@ Neste repositório estão presentes os desafios realizados por mim durante curso
 |   [Compras no Supermercado](./ComprasNoSupermercado)    |
 |            [Pink e Cérebro](./PinkECerebro)             |
 
+<br/>
+
+### BOOTCAMP TAKE BLIP FULLSTACK DEVELOPER - DIGITAL INNOVATION ONE
+
+|             NOME              |
+| :---------------------------: |
+| [Soma Simples](./SomaSimples) |
+|                               |
+|                               |
+|                               |
+|                               |
+|                               |
+|                               |
+|                               |
+|                               |
+|                               |
+|                               |
