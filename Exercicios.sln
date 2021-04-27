@@ -49,6 +49,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Multiplos", "Multiplos\Mult
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PizzaAntesDoFinalDoAno", "PizzaAntesDoFinalDoAno\PizzaAntesDoFinalDoAno.csproj", "{13348643-30B9-4269-9EDD-0A43FF96A8EA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UltrapassandoV", "UltrapassandoV\UltrapassandoV.csproj", "{5DAABC17-64F9-4F0C-9258-FA19F78B5A81}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -147,6 +149,10 @@ Global
 		{13348643-30B9-4269-9EDD-0A43FF96A8EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{13348643-30B9-4269-9EDD-0A43FF96A8EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{13348643-30B9-4269-9EDD-0A43FF96A8EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DAABC17-64F9-4F0C-9258-FA19F78B5A81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DAABC17-64F9-4F0C-9258-FA19F78B5A81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DAABC17-64F9-4F0C-9258-FA19F78B5A81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DAABC17-64F9-4F0C-9258-FA19F78B5A81}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
