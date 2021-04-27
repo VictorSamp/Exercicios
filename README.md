@@ -49,6 +49,7 @@ Neste repositório estão presentes os desafios realizados por mim durante curso
 | [Pizza Antes do Final de Ano](./PizzaAntesDoFinalDoAno) |
 |           [Ultrapassando V](./UltrapassandoV)           |
 |        [Conversão de Tempo](./ConversaoDeTempo)         |
+|       [Fórmula de Bhaskara](./FormulaDeBhaskara)        |
+|         [Coxinha de Bueno](./Coxinha de Bueno)          |
 |                                                         |
-|                                                         |
-|                                                         |
+
